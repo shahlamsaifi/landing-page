@@ -67,14 +67,7 @@ export default function Section4() {
             <div class="Creatic-logo">
                 <img src={logo1} />
             </div>
-{/*             <div class="Creatic-tag">
-                <a href="">Categories</a>
-                <a href="">About</a>
-                <a href="">Services</a>
-                <a href="">Portfolio</a>
-                <a href="">Pages</a>
-                <a href="">Support</a>
-            </div> */}
+           
             <div class="creatic-p">
                 <p>Lorem ipsum Neque porro quisquam est qui do lorem ipsum <br /> quia dolor sit amet, Neque porro elit
                     NeDque </p>
